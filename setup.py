@@ -49,7 +49,7 @@ packages = [
 ]
 
 install_requires = [
-    "urllib3>=1.21.1, <2",
+    "urllib3>=1.21.1, <3",
     "certifi",
 ]
 tests_require = [
